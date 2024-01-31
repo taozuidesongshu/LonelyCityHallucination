@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,N as l}from"./chunks/framework.60272d8a.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/vue3/acro.md","lastUpdated":1706686109000}'),p={name:"guide/vue3/acro.md"},o=l("",8),e=[o];function r(c,t,F,y,D,i){return n(),a("div",null,e)}const u=s(p,[["render",r]]);export{b as __pageData,u as default};

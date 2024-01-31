@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,N as l}from"./chunks/framework.60272d8a.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/js/JS二进制.md","lastUpdated":1706686109000}'),p={name:"guide/js/JS二进制.md"},o=l("",74),e=[o];function r(c,t,y,F,D,i){return n(),a("div",null,e)}const b=s(p,[["render",r]]);export{A as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,N as l}from"./chunks/framework.60272d8a.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/js/拖拽排序.md","lastUpdated":1706686109000}'),p={name:"guide/js/拖拽排序.md"},o=l("",5),e=[o];function t(r,c,F,D,y,i){return n(),a("div",null,e)}const A=s(p,[["render",t]]);export{b as __pageData,A as default};
